@@ -5,3 +5,4 @@ dist-ssr
 *.log
 .DS_Store
 .env.local
+.file_activity_report.json
